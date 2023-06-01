@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mizrab!</h1>
 <h3 align="center">Fullstack Developer - Bringing ideas to life!</h3>
 
-- 🔭 I’m currently working on **Digitify Cards (Flutter)**
+- 🔭 I’m currently working on **Digitify Cards (Flutter Application)**
 - 🌱 I’m currently learning **NextJS**
 - 🫰 Opensouce enthusiast
 - 🎓 Undergard BS Computer Science Student at FAST NUCES Islamabad 
