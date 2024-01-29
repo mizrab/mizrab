@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mizrab!</h1>
-<h3 align="center">Fullstack Developer - Bringing ideas to life!</h3>
+<h3 align="center">Fullstack Developer | Cloud | DevOps</h3>
 
 - 🔭 I’m currently working on **Digitify Cards (Flutter Application)**
 - 🌱 I’m currently learning **NextJS**
