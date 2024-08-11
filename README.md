@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **Digitify Cards (Flutter Application)**
 - 🌱 I’m currently learning **NextJS**
-- 🫰 Opensouce enthusiast
-- 🎓 Undergard BS Computer Science Student at FAST NUCES Islamabad 
+- 🫰 Opensource enthusiast
+- 🎓 BS Computer Science Student from FAST NUCES Islamabad 
 - 📫 How to reach me **mizrabsheikh57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
